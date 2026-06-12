@@ -1,3 +1,21 @@
+## 👋 About This Project
+
+This is my first-ever automation toolbox project.
+
+Built with:
+- Termux
+- ADB
+- Bash scripting
+
+I started this project to learn how Android device automation works and to improve my scripting skills.
+
+Still learning. Still building. 🚀
+
+
+
+
+
+
 🚀 ADB.sh
 
 ADB.sh is a lightweight and powerful ADB toolbox designed for Termux users.
