@@ -1,27 +1,26 @@
 🚀 ADB.sh
 
-ADB Toolbox sederhana dan powerful untuk Termux.
-
-Dibuat untuk mempermudah kontrol perangkat Android menggunakan ADB langsung dari HP tanpa PC.
+ADB.sh is a lightweight and powerful ADB toolbox designed for Termux users.
+It allows you to control Android devices easily using ADB commands directly from your phone.
 
 ---
 
-✨ Fitur Utama
+✨ Features
 
-- 🔌 Auto connect ADB (wireless)
-- 📡 Auto detect IP (USB - opsional)
-- 🔄 Auto reconnect
+- 🔌 Wireless ADB auto connect
+- 📡 IP auto detection (USB mode)
+- 🔄 Auto reconnect system
 - 📂 File explorer (ls, cd, pull)
-- 📸 Screenshot perangkat
-- 🎥 Screen record
+- 📸 Screenshot capture
+- 🎥 Screen recording
 - 🔋 Fake battery control
-- 📱 Launch aplikasi / URL
-- ⚙️ Shizuku integration
-- 🧰 Toolbox menu interaktif
+- 📱 App and URL launcher
+- ⚙️ Shizuku integration support
+- 🧰 Interactive terminal menu
 
 ---
 
-📦 Instalasi
+📦 Installation
 
 pkg update
 pkg install git
@@ -30,43 +29,43 @@ cd adb.sh
 chmod +x ADB.sh
 ./ADB.sh
 
-«Ganti "USERNAME" dengan username GitHub kamu»
+«Replace "USERNAME" with your GitHub username.»
 
 ---
 
-⚙️ Persyaratan
+⚙️ Requirements
 
 - Termux
-- ADB terinstall
-- Developer Options aktif
-- Wireless Debugging (direkomendasikan)
+- ADB installed
+- Developer Options enabled
+- Wireless Debugging enabled (recommended)
 
 ---
 
-⚠️ Catatan
+⚠️ Notes
 
-- Fitur USB Auto Detect tidak selalu stabil di semua perangkat
-- Disarankan menggunakan Wireless Debugging untuk hasil terbaik
-- Pastikan izin debugging sudah diizinkan di perangkat target
+- USB auto-detection may not work on all devices
+- Wireless Debugging is recommended for best performance
+- Make sure debugging permission is granted on the target device
 
 ---
 
-🧠 Cara Pakai
+🧠 Usage
 
-Jalankan:
+Run the script:
 
 ./ADB.sh
 
-Lalu pilih menu sesuai kebutuhan:
+Then choose from the menu:
 
-- Connect ke device
-- Screenshot
-- File explorer
-- dan lain-lain
+- Connect device
+- File management
+- Screenshot / screen recording
+- System tools
 
 ---
 
-📁 Struktur Project
+📁 Project Structure
 
 adb.sh/
 ├── ADB.sh
@@ -83,18 +82,17 @@ Jo / Dedsec106
 
 ⭐ Support
 
-Kalau project ini membantu:
+If you like this project:
 
-- Kasih ⭐ di repo
-- Share ke teman
+- Give it a ⭐ on GitHub
+- Share it with others
 
 ---
 
-🚧 Future Update
+🚧 Future Updates
 
-- Auto pairing wireless
-- UI lebih advanced
+- One-click installer
+- Auto update system
 - Multi-device support
-- Installer 1 command
-
----
+- Improved UI design
+- Performance optimization
