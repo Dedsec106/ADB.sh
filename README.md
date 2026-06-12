@@ -24,13 +24,10 @@ It allows you to control Android devices easily using ADB commands directly from
 
 pkg update
 pkg install git
-git clone https://github.com/USERNAME/adb.sh.git
+git clone https://github.com/Dedsec106/adb.sh.git
 cd adb.sh
 chmod +x ADB.sh
 ./ADB.sh
-
-«Replace "USERNAME" with your GitHub username.»
-
 ---
 
 ⚙️ Requirements
