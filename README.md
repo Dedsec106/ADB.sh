@@ -13,13 +13,6 @@ Still learning. Still building. 🚀
 
 ---
 
-🚀 ADB.sh
-
-ADB.sh is a lightweight and powerful ADB toolbox designed for Termux users.
-It allows you to control Android devices easily using ADB commands directly from your phone.
-
----
-
 ✨ Features
 
 - 🔌 Wireless ADB auto connect
