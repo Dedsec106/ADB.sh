@@ -11,10 +11,7 @@ I started this project to learn how Android device automation works and to impro
 
 Still learning. Still building. 🚀
 
-
-
-
-
+---
 
 🚀 ADB.sh
 
